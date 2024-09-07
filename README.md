@@ -3,8 +3,8 @@
 - 🔭 I’m currently working on Java.
 - 🌱 I’m currently enhancing my skills in backend development with Java Spring and MySQL.
 - 💬 Ask me about Java.
-- 📫 How to reach me: on Linkedin.
-- ⚡ Fun fact: Tennis
+- 📫 How to reach me: Linkedin.
+- ⚡ Fun fact: Tennis.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/mücahityildiz) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mchtyldz) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/)
