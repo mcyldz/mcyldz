@@ -1,16 +1,30 @@
-## 💫 About Me:
+<h1 align="center">💫 About Me 💫</h1>
 
-- 🔭 I’m currently working on Java.
-- 🌱 I’m currently enhancing my skills in backend development with Java Spring and MySQL.
-- 💬 Ask me about Java.
-- 📫 How to reach me: Linkedin.
-- ⚡ Fun fact: Tennis.
+<p align="center"> 🔭 I’m currently working on Java. </p>
+<p align="center"> 🌱 Backend development with Java and Spring </p>
+<p align="center"> 💬 Ask me about Java and Spring. </p>
+<p align="center"> ⚡ Fun fact: Tennis. </p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/mücahityildiz) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mchtyldz)
 
-## 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+<h1 align="center"> 🌐 Socials 🌐</h1>
+
+<p align="left">
+  <p align="center">
+    <a href="mailto:mcht.yildiz@hotmail.com" target="_blank"><img align="center" alt="Mail" width="36px" src="https://lh3.googleusercontent.com/0rpHlrX8IG77awQMuUZpQ0zGWT7HRYtpncsuRnFo6V3c8Lh2hPjXnEuhDDd-OsLz1vua4ld2rlUYFAaBYk-rZCODmi2eJlwUEVsZgg" /></a> <!-- Copyright © 2025 Google and the Gmail logo are trademarks of Google -->
+    <a href="https://www.linkedin.com/in/mücahityildiz" target="_blank"><img align="center" alt="LinkedIn" width="36px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" /></a> <!-- Copyright © 2025 LinkedIn and the LinkedIn logo are trademarks of LinkedIn -->
+    <a href="https://medium.com/@mchtyldz" target="_blank"><img align="center" alt="LinkedIn" width="124px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Medium_%28website%29_logo.svg/798px-Medium_%28website%29_logo.svg.png" /></a>
+  </p>
+</p>
+
+
+<h1 align="center"> 🌟 Technologies & Languages 🪄</h1>
+
+<p align="left">
+  <p align="center">
+    <img align="center" alt="IJ" width="36px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" /> <!-- Copyright © 2025 JetBrains s.r.o. Intellij Idea and the Intellij Idea logo are trademarks of JetBrains s.r.o. -->    
+    <img align="center" alt="C" width="36px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/Kotlin_icon.png" /> <!-- Copyright © 2025 JetBrains s.r.o. Kotlin and the Kotlin logo are trademarks of JetBrains s.r.o. -->
+  </p>
+</p>
 
 <!--
 ## Github Stats
