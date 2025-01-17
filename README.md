@@ -17,7 +17,7 @@
 </p>
 
 
-<h1 align="center"> 🌟 Technologies & Languages 🪄</h1>
+<h1 align="center"> 🌟 Technologies & Languages 🌟</h1>
 
 <p align="left">
   <p align="center">
