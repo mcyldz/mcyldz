@@ -9,15 +9,22 @@
 <h1 align="center"> Technologies & Languages ✨ </h1>
 <p align="left">
   <p align="center">
-    <img align="center" alt="IJ" width="36px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" /> <!-- Copyright © 2025 JetBrains s.r.o. Intellij Idea and the Intellij Idea logo are trademarks of JetBrains s.r.o. -->
-    <img align="center" alt="C" width="36px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/Kotlin_icon.png" /> <!-- Copyright © 2025 JetBrains s.r.o. Kotlin and the Kotlin logo are trademarks of JetBrains s.r.o. -->
+    <a href="https://www.oracle.com/" target="_blank"><img align="center" alt="C" width="40px" src="https://www.oracle.com/img/tech/java-logo-v1.svg" /></a>
+    <a href="https://www.jetbrains.com/" target="_blank"><img align="center" alt="IJ" width="36px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" /></a>
+    <a href="https://spring.io/" target="_blank"><img align="center" alt="C" width="36px" src="https://spring.io/img/spring.svg" /></a>
+    <a href="https://www.jetbrains.com/" target="_blank"><img align="center" alt="C" width="36px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/Kotlin_icon.png" /></a>
+    <a href="https://git-scm.com/" target="_blank"><img align="center" alt="C" width="36px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" /></a>
+    <a href="https://www.docker.com/" target="_blank"><img align="center" alt="C" width="80px" src="https://upload.wikimedia.org/wikipedia/en/f/f4/Docker_logo.svg" /></a>
+    <a href="https://www.postgresql.org/" target="_blank"><img align="center" alt="C" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" /></a>
+    
+  
   </p>
 </p>
 
 <h1 align="center"> Socials 🌍</h1>
 <p align="left">
   <p align="center">
-    <a href="mailto:mcht.yildiz@hotmail.com" target="_blank"><img align="center" alt="Mail" width="36px" src="https://lh3.googleusercontent.com/0rpHlrX8IG77awQMuUZpQ0zGWT7HRYtpncsuRnFo6V3c8Lh2hPjXnEuhDDd-OsLz1vua4ld2rlUYFAaBYk-rZCODmi2eJlwUEVsZgg" /></a> <!-- Copyright © 2025 Google and the Gmail logo are trademarks of Google -->
+    <a href="mailto:mcht.yildiz@hotmail.com" target="_blank"><img align="center" alt="Mail" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" /></a>
     <a href="https://www.linkedin.com/in/mücahityildiz" target="_blank"><img align="center" alt="LinkedIn" width="36px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" /></a> <!-- Copyright © 2025 LinkedIn and the LinkedIn logo are trademarks of LinkedIn -->
     <a href="https://medium.com/@mchtyldz" target="_blank"><img align="center" alt="LinkedIn" width="124px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Medium_%28website%29_logo.svg/798px-Medium_%28website%29_logo.svg.png" /></a>
   </p>
