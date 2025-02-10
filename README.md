@@ -1,13 +1,20 @@
-<h1 align="center">💫 About Me 💫</h1>
+<h1 align="center"> Hi, I'm Mücahit 👋🏻 </h1>
 
-<p align="center"> 🔭 I’m currently working on Java. </p>
-<p align="center"> 🌱 Backend development with Java and Spring </p>
-<p align="center"> 💬 Ask me about Java and Spring. </p>
-<p align="center"> ⚡ Fun fact: Tennis. </p>
+<h3 align="center"> 👩🏻‍💻 Java Developer </h3>
+<h4 align="center"> 🔮 Crafting Backend Solutions & Exploring AI Technologies </h4>
+<h4 align="center"> 🌱 Backend development with Java and Spring </h4>
+<h4 align="center"> 🔭 I’m currently working on Java. </h4>
+<h4 align="center"> ⚡ Fun fact: Tennis. </h4>
 
+<h1 align="center"> Technologies & Languages ✨ </h1>
+<p align="left">
+  <p align="center">
+    <img align="center" alt="IJ" width="36px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" /> <!-- Copyright © 2025 JetBrains s.r.o. Intellij Idea and the Intellij Idea logo are trademarks of JetBrains s.r.o. -->
+    <img align="center" alt="C" width="36px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/Kotlin_icon.png" /> <!-- Copyright © 2025 JetBrains s.r.o. Kotlin and the Kotlin logo are trademarks of JetBrains s.r.o. -->
+  </p>
+</p>
 
-<h1 align="center"> 🌐 Socials 🌐</h1>
-
+<h1 align="center"> Socials 🌍</h1>
 <p align="left">
   <p align="center">
     <a href="mailto:mcht.yildiz@hotmail.com" target="_blank"><img align="center" alt="Mail" width="36px" src="https://lh3.googleusercontent.com/0rpHlrX8IG77awQMuUZpQ0zGWT7HRYtpncsuRnFo6V3c8Lh2hPjXnEuhDDd-OsLz1vua4ld2rlUYFAaBYk-rZCODmi2eJlwUEVsZgg" /></a> <!-- Copyright © 2025 Google and the Gmail logo are trademarks of Google -->
@@ -16,15 +23,6 @@
   </p>
 </p>
 
-
-<h1 align="center"> 🌟 Technologies & Languages 🌟</h1>
-
-<p align="left">
-  <p align="center">
-    <img align="center" alt="IJ" width="36px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" /> <!-- Copyright © 2025 JetBrains s.r.o. Intellij Idea and the Intellij Idea logo are trademarks of JetBrains s.r.o. -->    
-    <img align="center" alt="C" width="36px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/Kotlin_icon.png" /> <!-- Copyright © 2025 JetBrains s.r.o. Kotlin and the Kotlin logo are trademarks of JetBrains s.r.o. -->
-  </p>
-</p>
 
 <!--
 ## Github Stats
