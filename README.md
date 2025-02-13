@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Mücahit 👋🏻 </h1>
 
-<h3 align="center"> 👩🏻‍💻 Java Developer </h3>
+<h3 align="center"> 👩🏻‍💻 Software Developer </h3>
 <h4 align="center"> 🔮 Crafting Backend Solutions & Exploring AI Technologies </h4>
 <h4 align="center"> 🌱 Backend development with Java and Spring </h4>
 <h4 align="center"> 🔭 I’m currently working on Java. </h4>
