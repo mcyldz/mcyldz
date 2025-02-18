@@ -15,7 +15,7 @@
     <a href="https://www.jetbrains.com/" target="_blank"><img align="center" alt="C" width="36px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/Kotlin_icon.png" /></a>
     <a href="https://git-scm.com/" target="_blank"><img align="center" alt="C" width="36px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" /></a>
     <a href="https://www.postgresql.org/" target="_blank"><img align="center" alt="C" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" /></a>
-    <a href="https://www.docker.com/" target="_blank"><img align="center" alt="C" width="95px" src="https://upload.wikimedia.org/wikipedia/en/f/f4/Docker_logo.svg" /></a>
+    <a href="https://www.docker.com/" target="_blank"><img align="center" alt="C" width="100px" src="https://upload.wikimedia.org/wikipedia/en/f/f4/Docker_logo.svg" /></a>
   
   </p>
 </p>
